@@ -40,8 +40,7 @@ Each problem is organized in a dedicated folder under:
 
 ---
 
-All problems were solved in order and tested successfully.  
-This repository will be updated regularly as I continue solving more problems from the site.
+All problems were solved in order and tested successfully.
 
 ---
 
@@ -57,4 +56,4 @@ I used AI to:
 
 ---
 
-**Thanks for checking out my repository!** More solutions coming soon 🚀
+**Thanks for checking out my repository!** 
